@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkTheOneCollector=self.webpackChunkTheOneCollector||[]).push([[679],{78679:function(e,n,t){t.r(n);t(72791);var l=t(80184);n.default=function(){return(0,l.jsx)("div",{children:"salutation"})}}}]);
+//# sourceMappingURL=679.091a4fdd.chunk.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/679.091a4fdd.chunk.js","mappings":"uJASA,UANA,WACE,OACE,yBAAK,cAET,C","sources":["views/master/salutation/salutation.jsx"],"sourcesContent":["/* eslint-disable */ \nimport React from 'react'\n\nfunction salutation() {\n  return (\n    <div>salutation</div>\n  )\n}\n\nexport default salutation"],"names":[],"sourceRoot":""}
